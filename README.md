@@ -28,4 +28,4 @@ Html, Css, Javascript, Python, Django, Bootstrap
 # Optimizations
 I consistently refactor and optimize my code for efficiency and readability.
 # Lessons Learned
-During the development of a simple blog project, I gained proficiency in using HTML, CSS, and JavaScript to create an intuitive and appealing front-end interface. Additionally, I utilized Python along with Django to seamlessly handle user data and build a robust back-end system.
+During the development of this simple blog project, I gained proficiency in using HTML, CSS, and JavaScript to create an intuitive and appealing front-end interface. Additionally, I utilized Python along with Django to seamlessly handle user data and build a robust back-end system.
